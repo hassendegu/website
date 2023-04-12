@@ -1,0 +1,38 @@
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%
+    ,rgba(0,0,0,0.5)50%),url(sw.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.logo{
+color:white;
+text-align:center;
+}
+ ul li a:hover{
+background-color:blue;
+}
+h1{
+    color:fuchsia;
+}
+
+p{
+  font-size: 40px;
+ color: gray;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    color:blue;
+  }
+  .nav{
+    
+    font-size: 50px;
+    display:flex;
+    align-items: center;
+    width: 100%;
+    justify-content:space-around;
+    background:grey;
+  }
